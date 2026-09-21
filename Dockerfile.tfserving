@@ -1,0 +1,5 @@
+FROM tensorflow/serving
+
+COPY kant_freud_model /models/kant_freud_model
+
+ENV MODEL_NAME=kant_freud_model
