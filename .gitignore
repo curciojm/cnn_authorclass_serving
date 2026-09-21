@@ -5,3 +5,8 @@ __pycache__/
 .pytest_cache/
 19_training_and_deploying_at_scale.ipynb
 TEORIA_CNN_Author_Classification_Kant_Freud_tfserving.ipynb
+cnn_model.keras
+db.sqlite3
+df_clasificaciones.csv
+df_clasificaciones.xlsx
+requirements_full.txt
