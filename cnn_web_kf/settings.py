@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.environ.get("SECRET_KEY_CNNKF")
 
 CSRF_TRUSTED_ORIGINS = [
-    "cnnauthorclassserving-production.up.railway.app",
+    "https://cnnauthorclassserving-production.up.railway.app",
 ]
 
 # SECURITY WARNING: don't run with debug turned on in production!
