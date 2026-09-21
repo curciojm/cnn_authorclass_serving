@@ -8,9 +8,10 @@ from .forms import PredictionForm
 from .preprocessing import preprocess_text
 
 
-TF_SERVING_URL = (
-    "http://localhost:8501/v1/models/kant_freud_model:predict"
-)
+import os
+
+# From railway variables
+TF_SERVING_URL = os.environ["TF_SERVING_URL"]
 
 
 @csrf_exempt
