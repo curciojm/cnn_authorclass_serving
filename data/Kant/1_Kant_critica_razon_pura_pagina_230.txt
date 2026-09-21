@@ -1,0 +1,45 @@
+192 KANT/CRÍTICA DE LA RAZÓN PURA
+trascendental1 de las cosas (según la cual un objeto corresponde al concepto), sólo puede
+engañar y dejar satisfecho a un inexpertoA,k.
+De ello se desprende incuestionablemente que los conceptos puros del entendi-
+miento sólo pueden tener un uso empírico, nunca un uso trascendental y que los princi-
+pios de ese mismo entendimiento sólo pueden referirse, bajo las condiciones universales
+de una experiencia posible, a objetos de los sentidos, nunca a cosas en general (indepen-
+dientemente de cómo las intuyamos)2.
+1 Kant corrige la palabra «trascendental» sustituyéndola por «real». Nachträge zur Kritik,
+CXXI. (N. del T.)
+A [Tras punto y aparte, viene en A el siguiente texto, suprimido en B:] Hay algo extraño e
+incluso absurdo en la afirmación de que tenemos un concepto al que ha de convenir una significa-
+ción y, sin embargo, no susceptible de ser explicado. Y es que las categorías tienen la peculiaridad
+de que sólo pueden poseer una significación determinada y una referencia a algún objeto por medio
+de la condición sensible general. Si eliminamos de la categoría esta condición, aquélla no puede
+contener otra cosa que la función lógica de someter la diversidad a un concepto. Pero esta función,
+es decir, la simple forma del concepto, no nos basta para conocer y distinguir qué objeto le corres-
+ponde, ya que precisamente se ha hecho abstracción de la condición sensible, que es la que hace
+posible que le correspondan objetos. Las categorías necesitan, pues, además del concepto puro del
+entendimiento, determinaciones de su aplicación a la sensibilidad en general (esquemas) [Leyendo,
+con Valentiner, Schemata, en vez de Schema (N. del T.)]. Sin tales determinaciones, no constituyen
+conceptos mediante los cuales sea posible conocer un objeto y distinguirlo de otro, sino que consti-
+tuyen simples modos de pensar un objeto de posibles intuiciones y de conferirle significación (bajo
+otras condiciones que se requieren) de acuerdo con alguna función del entendimiento, es decir,
+modos de definirlo. Las categorías mismas no pueden ser, pues, definidas. Las funciones lógicas de
+los juicios en general: unidad y pluralidad, afirmación y negación, sujeto y predicado, no pueden
+ser definidas sin incurrir en círculo vicioso, ya que la misma definición tiene que ser un juicio y,
+consiguientemente, debe contener ya esas funciones. Las categorías puras no son otra cosa que
+representaciones de las cosas en general, en la medida en que ¡o diverso de su intuición tiene que
+ser pensado mediante una u otra de estas funciones: la magnitud es la determinación que sólo puede
+ser pensada mediante un juicio que posea cantidad (judicium commune); la realidad es la determi-
+nación que sólo puede ser pensada mediante un juicio afirmativo; la sustancia es aquello que ha de
+constituir, en relación con la intuición, el sujeto último de todas las restantes determinaciones. Pero
+queda sin determinar qué cosas sean las que requieren que nos sirvamos de esta función, en vez de
+servirnos de otra. Así, pues, sin la intuición sensible de la que contienen la síntesis, las categorías
+no se refieren a ningún objeto determinado. No pueden, consiguientemente, definirlo, ni, por tanto,
+poseer en sí mismas la validez de conceptos objetivos.
+k En una palabra, si prescindimos de la intuición sensible (la única que tenemos), no po-
+demos justificar ninguno de estos conceptos ni, consiguientemente, mostrar su posibilidad real. No
+nos queda, en este supuesto, más que la posibilidad lógica, es decir, la posibilidad del concepto
+(pensamiento). Pero la cuestión no es ésta. La cuestión es si el concepto se refiere a un objeto y si,
+consiguientemente, significa algo. [Esta nota fue añadida por Kant en B].
+2 En Nachträge zur Kritik, CXXIV corrige Kant: «...nunca pueden referirse sintéticamente
+a cosas en general (independientemente de cómo las intuyamos), si han de suministrarnos algún
+conocimiento». (N. del T.)

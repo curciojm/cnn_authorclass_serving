@@ -1,0 +1,43 @@
+220 KANT/CRÍTICA DE LA RAZÓN PURA
+menos contradictoria. Sea de ello lo que fuere (la investigación al respecto nos queda
+todavía por hacer) algo se desprende con claridad: que el conocimiento derivado de
+principios (en sí mismos) es algo completamente distinto del simple conocimiento del
+entendimiento. Este último conocimiento puede preceder, en forma de principio, a otros
+conocimientos, pero en sí mismo (en cuanto conocimiento sintético) no se basa sólo en
+el pensar ni contiene algo universal por conceptos.
+Si el entendimiento es la facultad de la unidad de los fenómenos mediante las
+reglas, la razón es la facultad de la unidad de las reglas del entendimiento bajo princi-
+pios. La razón nunca se refiere, pues, directamente a la experiencia o a algún objeto,
+sino al entendimiento, a fin de dar unidad a priori, mediante conceptos, a los diversos
+conocimientos de éste. Tal unidad puede llamarse unidad de la razón, y es de índole
+totalmente distinta de la que es capaz de producir el entendimiento.
+Este es el concepto general de la facultad de la razón tal como ha podido hacerse
+concebible sin ningún ejemplo (éstos vendrán en lo que sigue).
+B
+El uso lógico de la razón
+Se establece una distinción entre lo inmediatamente conocido y lo que simple-
+mente es inferido. Que hay tres ángulos en una figura limitada por tres líneas rectas es
+algo que conocemos de modo inmediato. El que esos ángulos sumen dos rectos no es, en
+cambio, sino una inferencia. Dado que tenemos que inferir continuamente, nos habitua-
+mos a ello, y llega un momento en que ya no notamos esta distinción. A menudo consi-
+deramos como inmediato —como ocurre en el llamado engaño de los sentidos— algo
+que simplemente hemos inferido. En todo razonamiento hay una proposición que sirve
+de base [y] otra, la conclusión, que es extraída de ella; finalmente, está la inferencia
+(consecuencia) en virtud de la cual la verdad de la última queda indefectiblemente ligada
+a la verdad de la primera. Si el juicio inferido se halla ya de tal manera en el primero,
+que puede derivarse de éste sin la mediación de un tercero, entonces el razonamiento se
+llama inmediato (consequentia inmediata). Yo preferiría llamarlo inferencia del enten-
+dimiento. En cambio, si, para producir la conclusión, hace falta otro juicio, además del
+conocimiento que sirve de base, entonces se llama inferencia de la razón. En la proposi-
+ción «Todos los hombres son mortales» tenemos ya estas proposiciones: «Algunos
+hombres son mortales», «Algunos mortales son hombres», «Ningún ser que sea inmortal
+es hombre». Estas proposiciones son, pues, consecuencias inmediatas de la primera. Por
+el contrario, la proposición «Todos los sabios son mortales» no se halla incluida en el
+juicio que nos sirve de base (ya que el concepto de sabios no interviene en él) y sólo
+puede ser deducida de dicho juicio mediante otro juicio intermedio.
+En toda inferencia de la razón pienso primero una regla (major) por medio del
+entendimiento. En segundo lugar, subsumo un conocimiento bajo la condición de la
+regla (minor) por medio del juicio. Finalmente, determino mi conocimiento mediante el
+predicado de la regla (conclusio) y, consiguientemente, a priori por medio de la razón.
+Así, pues, la relación que la premisa mayor representa en cuanto regla, entre un conoci-
+miento y su condición, constituye las distintas clases de silogismos. Estos, al igual que

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Kant vs Freud</title>
+</head>
+<body>
+
+    <h1>Kant vs Freud</h1>
+
+    <form method="post">
+        {% csrf_token %}
+
+        {{ form.as_p }}
+
+        <button type="submit">Predecir</button>
+    </form>
+
+    {% if result %}
+        <h2>Resultado</h2>
+
+        <p>Freud: {{ result.freud|floatformat:4 }}</p>
+        <p>Kant: {{ result.kant|floatformat:4 }}</p>
+
+        <h3>Predicción: {{ result.label }}</h3>
+    {% endif %}
+</body>
+</html>

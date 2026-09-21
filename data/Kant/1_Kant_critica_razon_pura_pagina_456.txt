@@ -1,0 +1,44 @@
+418 KANT/CRÍTICA DE LA RAZÓN PURA
+especial de cara a una facultad que de modo natural se precia de poseer en un caso la
+suerte que ha tenido en otros. En su uso trascendental, la razón espera, pues, conseguir
+extenderse con la misma solidez con que lo ha hecho en las matemáticas, especialmente
+si usa en el primer caso el método que tan palpables ventajas ha demostrado en el se-
+gundo. Por ello nos interesa mucho saber si el método para obtener la certeza apodíctica,
+el método matemático, es idéntico al que persigue la misma certeza en filosofía y que
+debiera llamarse dogmático en este caso.
+El conocimiento filosófico es un conocimiento racional derivado de conceptos;
+el conocimiento matemático es un conocimiento obtenido por construcción de los con-
+ceptos. Construir un concepto significa presentar la intuición a priori que le correspon-
+de. Para construir un concepto hace falta, pues, una intuición no empírica que, consi-
+guientemente, es, en cuanto intuición, un objeto singular, a pesar de lo cual, en cuanto
+construcción de un concepto (representación universal), tiene que expresar en su repre-
+sentación una validez universal en relación con todas las posibles intuiciones pertene-
+cientes al mismo concepto. Construyo, por ejemplo, un triángulo representando, sea el
+objeto correspondiente a este concepto por medio de la simple imaginación, en la intui-
+ción pura, sea, de acuerdo con ésta, sobre el papel, en la intuición empírica, pero en
+ambos casos completamente a priori, sin tomar el modelo de una experiencia. A pesar
+de que la figura singular trazada es empírica, sirve para expresar el concepto, no obstan-
+te la universalidad de éste. La razón está en que esa intuición apunta siempre al simple
+acto de construir el concepto, en el cual hay muchas determinaciones (por ejemplo, la
+magnitud de los lados y de los ángulos) que son completamente indiferentes; se prescin-
+de, por tanto, de estas diferencias que no modifican el concepto de triángulo.
+Así, pues, el conocimiento filosófico sólo considera lo particular en lo universal;
+las matemáticas, lo universal en lo particular, e incluso en lo singular, pero a priori y por
+medio de la razón. Por ello, así como este singular se halla determinado por ciertas
+condiciones universales de la construcción, así también el objeto del concepto, al que
+dicho singular corresponde como su mero esquema, tiene que concebirse como univer-
+salmente determinado.
+Es, por tanto, esta diferencia formal lo que distingue esencialmente estas dos
+clases de conocimiento de razón. La distinción no se basa en la diferencia de su materia
+o de sus objetos. Quienes pretenden distinguir filosofía y matemáticas diciendo que el
+objeto de la primera es sólo la cualidad, mientras que el de las segundas es únicamente
+la cantidad, confunden el efecto con la causa. La causa de que el conocímiento matemá-
+tico sólo pueda referirse a cantidades es la forma de tal conocimiento, ya que los únicos
+conceptos que pueden construirse, es decir, representarse a priori en la intuición, son los
+relativos a magnitudes, mientras que los conceptos relativos a cualidades no son repre-
+sentables en otra intuición que la empírica. El conocimiento racional de las cualidades
+no es, pues, posible sino a través de conceptos. Por ello no puede nadie obtener una
+intuición que corresponda al concepto de realidad más que partiendo de la experiencia;
+nunca puede poseerla a priori, partiendo de sí mismo y antes de tener conciencia empí-
+rica de ella. La forma cónica puede hacerse intuible sin ayuda empírica, de acuerdo con
+el simple concepto, pero el color del cono tiene que haberse dado previamente en una

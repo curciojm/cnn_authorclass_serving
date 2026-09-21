@@ -1,0 +1,43 @@
+DISCIPLINA DE LA RAZÓN PURA 419
+experiencia. No puedo en modo alguno representar en la intuición el concepto de causa
+en general, como no sea en un ejemplo ofrecido por la experiencia; y lo mismo puede
+decirse de otros conceptos. Además, la filosofía se ocupa de magnitudes tanto como las
+matemáticas. Trata, por ejemplo, de la totalidad, de la infinitud, etc. Las matemáticas se
+ocupan también de la diferencia entre línea y superficie en cuanto espacios de distinta
+cualidad, así como de la continuidad de la extensión en cuanto cualidad de ésta. Sin
+embargo, por más que en estos casos filosofía y matemáticas tengan un objeto común,
+su modo de tratarlo mediante la razón es completamente distinto en una y otra ciencia.
+La primera se atiene sólo a conceptos universales, mientras que la segunda nada puede
+hacer con el simple concepto, sino que va inmediatamente en pos de la intuición, en la
+cual considera el concepto en concreto, pero no empíricamente, sino sólo en una intui-
+ción que representa a priori, es decir, que ha construido y en la que aquello que se sigue
+de las condiciones universales de la construcción tiene que ser también umversalmente
+válido respecto del objeto del concepto construido.
+Demos al filósofo el concepto de triángulo y dejémosle que halle a su manera la
+relación existente entre la suma de sus ángulos y un ángulo recto. No cuenta más que
+con el concepto de una figura cerrada por tres líneas rectas y con el concepto de otros
+tantos ángulos. Por mucho tiempo que reflexione sobre este concepto no sacará ninguna
+conclusión nueva. Puede analizar y clarificar el concepto de línea recta, el de ángulo o el
+del número tres, pero no llegar a propiedades no contenidas en estos conceptos. Dejemos
+que sea ahora el geómetra el que se ocupe de esta cuestión. Comienza por construir en
+seguida un triángulo. Corno sabe que la suma de dos ángulos rectos equivale a la de
+todos los ángulos adyacentes que pueden trazarse desde un punto sobre una línea recta,
+prolonga un lado del triángulo y obtiene dos ángulos adyacentes que, sumados, valen
+dos rectos. De estos dos ángulos divide el externo trazando una paralela al lado opuesto
+del triángulo y ve que surge de este modo un ángulo adyacente externo igual a uno
+interno; y así sucesivamente. A través de una cadena de inferencias y guiado siempre
+por la intuición, el geómetra consigue así una solución evidente y, a la vez, universal del
+problema.
+Las matemáticas no sólo construyen magnitudes (quanta), como en la geometría,
+sino también la mera cantidad (quantitas), como en el álgebra, donde se prescinde to-
+talmente de la naturaleza del objeto que ha de ser pensado según este concepto de mag-
+nitud. Esta misma ciencia elige entonces cierta denominación de todas las construccio-
+nes de magnitudes en general (números), como adición, sustracción, extracción de raí-
+ces, etc.1, y, una vez que ha designado también el concepto universal de las magnitudes
+según las diversas relaciones de las mismas, representa en la intuición, de acuerdo con
+ciertas reglas universales, todas las operaciones producidas y modificadas mediante la
+magnitud2. Cuando una magnitud tiene que ser dividida por otra, la ciencia matemática
+combina los símbolos de ambas según el signo indicador de la división, etc. Así, pues,
+1 Leyendo, con Erdmann, (Zahlen), als..., en vez de (Zahlen, als...) (N. del T.)
+2 Wille lee: «todas las operaciones mediante las cuales se produce y modifica la magnitud»
+(durch die die, en lugar de die durch die). (N. del T.)

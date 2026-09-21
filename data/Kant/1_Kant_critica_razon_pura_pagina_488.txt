@@ -1,0 +1,44 @@
+450 KANT/CRÍTICA DE LA RAZÓN PURA
+más que una demostración posible, si es que alguna lo es. Por consiguiente, si el dogmá-
+tico se nos viene con diez pruebas, podemos estar seguros de que no posee ninguna. Si
+tuviera una que demostrara apodícticamente (como tiene que ser en las cuestiones de la
+razón pura) ¿para qué necesitaría las otras? Lo único que persigue el dogmático es lo de
+aquel abogado parlamentario: un argumento es para éste, otro para aquél, es decir, para
+servirse de la debilidad de unos jueces que, sin entrar en el fondo de la cuestión y, para
+desembarazarse rápidamente del asunto, acuden al primer argumento y a la luz de éste
+deciden.
+La tercera regla peculiar de la razón pura, al ser ésta sometida a una disciplina en
+relación con las demostraciones trascendentales, consiste en que sus pruebas no deben
+nunca ser apagógicas, sino ostensivas. La demostración directa u ostensiva es, en todo
+tipo de conocimiento, la que, al tiempo que convence de la verdad, enlaza tal convicción
+con el conocimiento de las fuentes de la verdad. La demostración apagógica, por el
+contrario, puede producir certeza, pero no inteligibilidad de la verdad en lo que se refie-
+re a la conexión de ésta con los fundamentos de su posibilidad. Las demostraciones de
+este último tipo son, pues, un remedio de urgencia, más que un procedimiento que satis-
+faga todos los objetivos de la razón. No obstante, aventajan en evidencia a las demostra-
+ciones directas. La ventaja consiste en que la contradicción conlleva siempre mayor
+claridad en la representación que el mejor enlace, por lo cual se aproximan más al ele-
+mento intuitivo de una demostración.
+La verdadera causa del uso de demostraciones apagógicas en diferentes ciencias
+es ésta: cuando los fundamentos de los que se pretende derivar cierto conocimiento son
+demasiado numerosos o se hallan excesivamente velados, se ensaya la posibilidad de
+llegar a tal conocimiento a través de sus consecuencias. Sería el modus ponens, esto es,
+inferir la verdad de un conocimiento partiendo de la verdad de sus consecuencias, lo
+cual sólo es permisible cuando son verdaderas todas sus consecuencias. En efecto, sólo a
+un fundamento puede deberse este último caso, fundamento que, consiguientemente, es
+también el verdadero. Ahora bien, este procedimiento es impracticable, pues el ver todas
+las consecuencias de cualquier proposición que adoptemos es algo que excede nuestra
+capacidad. Este tipo de inferencia es, no obstante, empleado —si bien, naturalmente, con
+cierta indulgencia— cuando sólo se trata de demostrar algo como hipótesis, admitiéndo-
+se entonces la conclusión en virtud de la analogía siguiente: si todas las consecuencias
+ensayadas concuerdan con un fundamento supuesto, todas las demás consecuencias
+posibles tienen que concordar igualmente con él. Por ello nunca se puede, por este ca-
+mino, transformar una hipótesis en una verdad demostrada. El modus tollens de los
+razonamientos que van de las consecuencias a los fundamentos, no sólo demuestra
+rigurosamente, sino además, con gran facilidad, pues basta que pueda extraerse de una
+proposición una sola consecuencia falsa para que tal proposición sea también falsa. En
+vez de recorrer, pues, en una demostración ostensiva toda la serie de fundamentos que
+pueden conducirnos a la verdad de un conocimiento mediante una exhaustiva compren-
+sión de su posibilidad, sólo necesitamos encontrar una sola consecuencia falsa entre las
+que derivan del conocimiento opuesto para que este opuesto sea también falso y para
+que, consiguientemente, sea verdadero el conocimiento que se trataba de probar.

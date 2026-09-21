@@ -1,0 +1,36 @@
+44 PROLEGOMENOS [282-283]
+a priori. De aquí se sigue: que las proposiciones que se re-
+fieran solamente a esta forma de la intuición sensible serán
+posibles y válidas acerca de objetos de los sentidos; e igual-
+mente a la inversa, que las intuiciones que son posibles a
+priori no pueden referirse nunca a otra cosa que a los objetos
+de nuestros sentidos.
+§ 10
+Por consiguiente, es sólo la forma de la intuición sen-
+sible aquello por lo cual podemos intuir a priori las cosas,
+mediante lo cual también, empero, conocemos los objetos
+solamente tal como pueden aparecérsenos a nosotros (como
+pueden aparecerse a nuestros sentidos), y no tal como sean
+en sí; y esta presuposición es absolutamente necesaria, si las
+proposiciones sintéticas a priori han de ser admitidas como
+posibles o si, en caso de que se encuentre que son reales, se
+ha de comprender su posibilidad y se la ha de determinar
+de antemano.
+Ahora bien, espacio y tiempo son las intuiciones que la
+matemática pura pone por fundamento de todos los conoci-
+mientos y juicios suyos que se presentan a la vez como apo-
+dícticos y necesarios; pues la matemática tiene que repre-
+sentar, esto es, construir todos sus conceptos primeramente
+en la intuición, y la matemática pura debe hacerlo en la in-
+tuición pura, sin la cual (puesto que no puede proceder ana-
+líticamente, es decir, por descomposición de los conceptos,
+sino sólo sintéticamente)20 no le es posible dar ni un paso, a
+saber: mientras le falte la intuición pura, únicamente en la
+cual puede ser dada la materia para juicios sintéticos a
+priori. La geometría toma por fundamento la intuición pura
+del espacio. La aritmética construye ella misma sus concep-
+tos de números mediante la adición sucesiva de las unidades
+en el tiempo; pero especialmente la mecánica pura puede
+formar sus conceptos de movimiento solamente mediante la
+representación del tiempo. Pero ambas representaciones son
+meramente intuiciones; pues si de las intuiciones empíricas

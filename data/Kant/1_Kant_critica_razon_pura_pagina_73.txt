@@ -1,0 +1,41 @@
+INTRODUCCIÓN DE KANT 35
+limitaré mi principio a la matemática pura, cuyo concepto implica, por sí mismo, que no
+contiene conocimiento empírico alguno, sino sólo conocimiento puro a priori.
+Se podría pensar, de entrada, que la proposición 7 + 5 = 12 es una simple propo-
+sición analítica, que se sigue, de acuerdo con el principio de contradicción, del concepto
+de suma de siete y cinco. Pero, si se observa más de cerca, se advierte que el concepto
+de suma de siete y cinco no contiene otra cosa que la unión de ambos números en uno
+solo, con lo cual no se piensa en absoluto cuál sea ese número único que sintetiza los
+dos. El concepto de doce no está todavía pensado en modo alguno al pensar yo simple-
+mente dicha unión de siete y cinco. Puedo analizar mi concepto de esa posible suma el
+tiempo que quiera, pero no encontraré en tal concepto el doce. Hay que ir más allá de
+esos conceptos y acudir a la intuición correspondiente a uno de los dos, los cinco dedos
+de nuestra mano, por ejemplo, o bien (como hace Segner en su Aritmética) cinco puntos,
+e ir añadiendo sucesivamente al concepto de siete las unidades del cinco dado en la
+intuición. En efecto, tomo primero el número 7 y, acudiendo a la intuición de los dedos
+de la mano para el concepto de 5, añado al número 7, una a una (según la imagen de la
+mano), las unidades que previamente he reunido para formar el número 5, y de esta
+forma veo surgir el número 12. Que 5 tenía que ser añadido a 71 lo he pensado cierta-
+mente en el concepto de suma = 7 + 5, pero no que tal suma fuera igual a 12. Por consi-
+guiente, la proposición aritmética es siempre sintética, cosa de la que nos percatamos
+con mayor claridad cuando tomamos números algo mayores, ya que entonces se pone
+claramente de manifiesto que, por muchas vueltas que demos a nuestros conceptos,
+jamás podríamos encontrar la suma mediante un simple análisis de los mismos, sin
+acudir a la intuición.
+De la misma forma, ningún principio de la geometría pura es analítico. «La línea
+recta es la más corta entre dos puntos» es una proposición sintética. En efecto, mi con-
+cepto de recto no contiene ninguna magnitud, sino sólo cualidad. El concepto «la más
+corta» es, pues, añadido enteramente desde fuera. Ningún análisis puede extraerlo del
+concepto de línea recta. Hay que acudir, pues, a la intuición, único factor por medio del
+cual es posible la síntesis.
+Aunque2 algunos de los principios supuestos por los geómetras son analíticos y
+se basan en el principio de contradicción, sólo sirven, al igual que las proposiciones
+idénticas, como eslabones del método, no como principios. Por ejemplo: a = a, el todo
+es igual a sí mismo, o bien (a + b) > a, el todo es mayor que una de sus partes. Sin em-
+bargo, estos mismos principios sólo se admiten en matemáticas, a pesar de ser inmedia-
+tamente válidos por sus meros conceptos, en cuanto que son susceptibles de representa-
+1 Entendiendo, con Erdman «5 zu 7», en lugar de «7 zu 5» (N. del T.)
+2 Según indica Vaihinger en su Commentar, este párrafo, es decir, desde «Aunque algunos
+de los principios...» hasta «susceptibles de representación intuitiva» deberla, por ser un desplaza-
+miento claro, figurar a continuación de «...gracias a una intuición que ha de añadirse al concepto»,
+esto es, tras el párrafo siguiente. (N. del T.)

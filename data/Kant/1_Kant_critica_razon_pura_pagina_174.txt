@@ -1,0 +1,38 @@
+136 KANT/CRÍTICA DE LA RAZÓN PURA
+ningún conocimiento pueda oponerse a él sin autonegarse hace del principio una condi-
+tio sine qua non del conocimiento, pero no la base que determina su verdad. Dado que
+tenemos que habérnoslas sólo con el aspecto sintético de nuestro conocimiento, tendre-
+mos siempre el cuidado de no ir nunca en contra de este inviolable principio, pero jamás
+podemos esperar de él una explicación en lo que a la verdad de tal aspecto del conoci-
+miento se refiere.
+Aunque este conocido principio está desprovisto de todo contenido y es mera-
+mente formal, existe una formulación del mismo que incluye una síntesis, una síntesis
+que, descuidadamente y sin necesidad alguna, ha sido mezclada con tal formulación. Es
+la siguiente: «Es imposible que algo sea y no sea a la vez». Aparte de que se ha introdu-
+cido superfluamente la certeza apodíctica (mediante la palabra imposible), que debe
+suponerse automáticamente a partir del principio, éste se halla afectado por una condi-
+ción temporal. El principio viene a quedar así: una cosa =A que es algo = B no puede ser
+simultáneamente no B, pero sí puede ser las dos cosas (B y no B) sucesivamente. Por
+ejemplo, una persona joven no puede ser, simultáneamente, vieja, pero sí puede ser
+joven en un tiempo y no joven, es decir, vieja, en otro tiempo. Ahora bien, en cuanto
+meramente lógico, el principio de contradicción no debe limitar sus aserciones a circuns-
+tancias temporales. Semejante formulación es, pues, completamente opuesta a la inten-
+ción del principio. El malentendido viene, por tanto, del simple hecho de separar prime-
+ro del concepto de una cosa un predicado de la misma y de ligar después a este predica-
+do su contrario, lo cual nunca origina una contradicción con el sujeto, sino únicamente
+con ese predicado que hemos ligado sintéticamente al sujeto, y ello sólo en el caso de
+que afirmemos los dos predicados al mismo tiempo. Si digo que una persona inculta no
+es culta, debo añadir la condición de simultaneidad, ya que quien es inculto en un mo-
+mento puede ser culto en otro momento. Si afirmo, en cambio: «Ninguna persona inculta
+es culta», tenemos una proposición analítica, ya que la propiedad de la incultura forma
+parte del sujeto; con ello cobra una inmediata claridad la proposición negativa a partir
+del principio de contradicción, sin necesidad de añadir la condición de simultaneidad.
+Esta es igualmente la razón de que haya modificado antes la formulación del principio
+de modo que reflejara con claridad su carácter de proposición analítica.
+Sección segunda
+EL PRINCIPIO SUPREMO DE TODOS LOS JUICIOS SINTÉTICOS
+La explicación de la posibilidad de juicios sintéticos es una tarea con la que no
+tiene absolutamente nada que ver la lógica general, la cual no necesita siquiera conocer
+el nombre de la misma. Esta explicación constituye, sin embargo, el quehacer principal
+de una lógica trascendental, e incluso el único cuando se trata de la posibilidad de jui-
+cios sintéticos a priori o de las condiciones y alcance de su validez. En efecto, una vez

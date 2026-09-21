@@ -1,0 +1,43 @@
+DIALÉCTICA TRASCENDENTAL 219
+de funciones del primero nos proporcione igualmente el árbol genealógico de los con-
+ceptos de la razón.
+En la primera parte de la lógica trascendental hemos dicho que el entendimiento
+es la facultad de las reglas. Aquí lo distinguiremos de la razón llamando a ésta facultad
+de los principios.
+El término «principio» es ambiguo. Ordinariamente no significa más que un co-
+nocimiento susceptible de ser usado como principio, aunque no sea tal ni en sí mismo ni
+en su origen. Toda proposición general, incluso si es tomada de la experiencia (por
+inducción), puede hacer de premisa mayor en un silogismo. Pero no por ello es un prin-
+cipio. Los axiomas matemáticos (por ejemplo: «Entre dos puntos sólo puede haber una
+recta») son incluso conocimientos universales a priori y por eso es correcto llamarlos
+principios en relación con los casos subsumidos bajo los mismos. Pero no por ello puedo
+afirmar que conozca esa propiedad de la recta en general y en sí, por principios, sino
+simplemente en la intuición pura.
+Consiguientemente, llamaría conocimiento por principios a aquel en el que, por
+medio de conceptos, conozco lo particular en lo universal. Así, todo silogismo es un
+modo de derivar un conocimiento partiendo de un principio. En efecto, la premisa mayor
+suministra siempre un concepto que hace que cuanto queda subsumido bajo la condición
+del mismo sea conocido a partir de él conforme a un principio. Ahora bien, dado que
+todo conocimiento universal puede servir de mayor en un silogismo y dado que el en-
+tendimiento ofrece esas proposiciones universales a priori, podemos llamar también
+principios a estas últimas en relación con su posible uso.
+Si, en cambio, consideramos estos principios del entendimiento puro en sí mis-
+mos desde el punto de vista de su origen, no constituyen conocimientos surgidos de
+conceptos, ni mucho menos. En efecto, ni siquiera serían posibles a priori si no acudié-
+ramos a la intuición pura (en las matemáticas) o a las condiciones de una experiencia
+posible en general. Que todo lo que sucede tenga una causa no podemos inferirlo del
+concepto de lo que sucede. Al contrario, el principio indica que sólo de lo que sucede
+podemos obtener un concepto empírico determinado.
+El entendimiento es, pues, incapaz, a partir de conceptos, de suministrar cono-
+cimientos sintéticos, que son los que yo denomino principios en sentido propio. No
+obstante, podemos llamar principios, en sentido comparativo, a todas las proposiciones
+universales.
+Hay un antiguo deseo que tal vez llegue —quién sabe cuándo— a realizarse.
+Consiste en buscar, en vez de la infinita variedad de las leyes civiles, sus principios, ya
+que es en éstos donde puede hallarse el secreto de la llamada simplificación de la legis-
+lación. Las leyes no hacen sino limitar nuestra libertad a unas condiciones bajo las cua-
+les ésta se armonice perfectamente consigo misma. En consecuencia, las leyes se refie-
+ren a algo que es por entero obra nuestra, algo de lo cual podemos ser la causa nosotros
+mismos por medio de esos conceptos. Pretender, en cambio, saber cómo los objetos en
+sí mismos, cómo la naturaleza de las cosas, se hallen bajo principios y tengan que ser
+determinados mediante simples conceptos, constituye una exigencia, si no imposible, al

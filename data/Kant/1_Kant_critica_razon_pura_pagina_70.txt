@@ -1,0 +1,40 @@
+32 KANT/CRÍTICA DE LA RAZÓN PURA
+IV1. DISTINCIÓN ENTRE LOS JUICIOS ANALÍTICOS Y LOS
+SINTÉTICOS
+En todos los juicios en los que se piensa la relación entre un sujeto y un predica-
+do (me refiero sólo a los afirmativos, pues la aplicación de los negativos es fácil [des-
+pués]), tal relación puede tener dos formas: o bien el predicado B pertenece al sujeto A
+como algo que está (implícitamente) contenido en el concepto A, o bien B se halla com-
+pletamente fuera del concepto A, aunque guarde con él alguna conexión.
+En el primer caso llamo al juicio analítico; en el segundo, sintético. Los juicios
+analíticos (afirmativos) son, pues, aquellos en que se piensa el lazo entre predicado y
+sujeto mediante la identidad; aquellos en que se piensa dicho lazo sin identidad se lla-
+marán sintéticos. Podríamos también denominar los primeros juicios explicativos, y
+extensivos los segundos, ya que aquéllos no añaden nada al concepto del sujeto mediante
+el predicado, sino que simplemente lo descomponen en sus conceptos parciales, los
+cuales eran ya pensados en dicho concepto del sujeto (aunque de forma confusa). Por el
+contrario, los últimos añaden al concepto del sujeto un predicado que no era pensado en
+él ni podía extraerse de ninguna descomposición suya. Si digo, por ejemplo: «Todos los
+cuerpos son extensos», tenemos un juicio analítico. En efecto, no tengo necesidad de ir
+más allá del concepto que ligo a «cuerpo»2 para encontrar la extensión como enlazada
+con él. Para hallar ese predicado, no necesito sino descomponer dicho concepto, es
+decir, adquirir conciencia de la multiplicidad que siempre pienso en él. Se trata, pues, de
+un juicio analítico. Por el contrario, si digo «Todos los cuerpos son pesados», el predi-
+cado constituye algo completamente distinto de lo que pienso en el simple concepto de
+cuerpo en general. Consiguientemente, de la adición de semejante predicado surge un
+juicio sintético.
+LosA juicios de experiencia, como tales, son todos sintéticos. En efecto, sería ab-
+surdo fundar un juicio analítico en la experiencia, ya que para formularlo no tengo que
+1 En A: falta el «IV».
+2 En A: «no tengo necesidad de salir del concepto que ligo a la palabra cuerpo».
+A [Texto de A en lugar de este párrafo:] De ello se desprende, pues, claramente que: 1) los
+juicios analíticos no amplían nuestro conocimiento, sino que detallan el concepto ya poseído por mí
+y me hacen consciente de él; 2) para reconocer que un predicado no contenido en el concepto le
+pertenece, no obstante, tengo que poseer, en el caso de los juicios sintéticos, algo más (X) que el
+concepto del sujeto, algo en que apoyar el entendimiento.
+En el caso de los juicios empíricos o de experiencia, esta cuestión no ofrece dificultad alguna, ya
+que dicha X es la experiencia completa del objeto que pienso mediante un concepto A, el cual
+constituye sólo una parte de esa experiencia. En efecto, aunque yo no incluya en el concepto de
+cuerpo el predicado «pesado», dicho concepto designa la experiencia completa mediante una de sus
+partes. A esta última parte puedo añadir, pues, otras partes de la misma experiencia como pertene-
+cientes a la completa. Puedo reconocer de antemano el concepto de cuerpo analíticamente por

@@ -1,0 +1,43 @@
+IMPOSIBILIDAD DE LA PRUEBA COSMOLÓGICA 371
+necesidad tiene que ser incondicionada y cierta a priori, a buscar un concepto que cum-
+pliera en lo posible estos requisitos y que nos permitiera, totalmente a priori, conocer
+una existencia. Se creyó encontrar tal concepto en la idea del ser realísimo y, así, ésta
+fue empleada tan sólo con vistas al conocimiento más específico de aquello —es decir,
+del ser necesario— de la necesidad de cuya existencia se estaba ya convencido o per-
+suadido por otras razones. Esta manera natural de proceder de la razón fue, sin embargo,
+ocultada y, en vez de terminar por este concepto, se intentó empezar por él para derivar
+del mismo la necesidad de la existencia, a pesar de que estaba destinado tan sólo a servir
+de complemento a tal existencia. De ahí surgió la desdichada prueba ontológica, que ni
+satisface al entendimiento natural y sano ni resiste un examen riguroso.
+La prueba cosmológica, que vamos a examinar ahora, conserva el lazo entre la
+necesidad absoluta y la realidad suprema, pero, en lugar de inferir la necesidad de la
+existencia a partir de la realidad suprema, como hacía la prueba anterior, infiere, a partir
+de la incondicionada necesidad, previamente dada, de un ser, la realidad ilimitada del
+mismo. En este sentido, la prueba sigue una vía de argumentación, no sé si racional o
+sofística, pero al menos natural. Esta vía conlleva la mayor convicción, no sólo para el
+entendimiento común, sino incluso para el especulativo, al tiempo que traza visiblemen-
+te las primeras líneas básicas de todas las demostraciones de la teología natural, líneas
+que siempre se han seguido y se seguirán en el futuro, por muy frondosos que sean los
+adornos que las engalanen o disimulen. Vamos a exponer ahora y someter a examen esta
+prueba que Leibniz denominó también a contingentia mundi.
+El argumento es el siguiente: si algo existe, tiene que existir también un ser ab-
+solutamente necesario. Ahora bien, existo al menos yo. Por consiguiente, existe un ser
+absolutamente necesario. La menor contiene una experiencia. La mayor infiere la exis-
+tencia de lo necesario a partir de una experiencia en generalk. Así, pues, la prueba arran-
+ca de la experiencia y no procede, por tanto, enteramente a priori u ontológicamente; si
+recibe el nombre de cosmológica, se debe a que el objeto de toda posible experiencia se
+llama mundo. La demostración prescinde también de todas las especiales propiedades de
+los objetos empíricos mediante las cuales puede distinguirse este mundo de cualquier
+otro posible. Por ello se diferencia esta prueba, en su misma denominación, del argu-
+mento físico-teológico, el cual necesita apoyarse en observaciones sobre la especial
+naturaleza de nuestro mundo sensible.
+La prueba deduce, además, que el ser necesario sólo puede ser determinado de
+un modo, es decir, que de entre todos los posibles pares de predicados contrapuestos
+sólo puede serlo por uno. Consiguientemente, el ser necesario tiene que estar completa-
+mente determinado por su concepto. Ahora bien, el único concepto que puede a priori
+determinar completamente la cosa de la que es concepto es el del ens realissimum. Este
+k Esta inferencia es demasiado conocida como para necesitar ahora una exposición más
+amplia. Se apoya en la presunta ley trascendental de la causalidad, según la cual todo lo contingente
+posee una causa que, en el caso de ser, a su vez, contingente, debe poseer igualmente una causa,
+hasta que la serie de causas subordinadas unas a otras se acabe en una que sea absolutamente
+necesaria, requisito sin el cual no sería completa esa serie (Nota de Kant)

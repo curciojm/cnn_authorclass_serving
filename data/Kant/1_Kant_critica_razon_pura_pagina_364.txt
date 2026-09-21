@@ -1,0 +1,41 @@
+326 KANT/CRÍTICA DE LA RAZÓN PURA
+realidad donde no existe ninguna. Este es el camino que vamos a seguir ahora para
+solucionar una disputa sobre la que no es posible pronunciar una sentencia definitiva.
+Zenón de Elea, sutil dialéctico, fue duramente atacado por Platón, quien lo cali-
+ficó de sofista petulante porque, para mostrar su habilidad, trataba de demostrar con
+pseudoargumentos una proposición que rebatía luego con argumentos igualmente fuer-
+tes. Zenón afirmaba que Dios (probablemente, éste no era para él más que el mundo) no
+era ni finito ni infinito; que no estaba en movimiento ni en reposo; que no era semejante
+ni desemejante a otra cosa. Quienes lo juzgaban sobre el particular tenían la impresión
+de que pretendía negar enteramente dos proposiciones opuestas entre sí, lo cual es ab-
+surdo. Pero no creo que sea razonable atribuirle tal intención. La primera de las afirma-
+ciones la estudiaré después con más detalle. En cuanto a las demás, si entendía por la
+palabra «dios» el universo, entonces tenía que decir que ni éste se halla permanentemen-
+te presente en su lugar (en reposo) ni tampoco cambia de lugar (se mueve), ya que, si
+todos los lugares están en el universo, éste no se halla, por su parte, en ningún lugar. Si
+el universo comprende en sí mismo todo cuanto existe, entonces no guarda semejanza ni
+desemejanza con otra cosa, puesto que no existe fuera de él otra cosa con la que pueda
+ser comparado. Si dos juicios contrapuestos presuponen una condición inadmisible,
+ambos quedan eliminados independientemente de cuál sea su oposición (que no consti-
+tuye una verdadera contradicción), ya que cae la condición sin la cual ninguna de las dos
+proposiciones posee validez.
+Si alguien dice que todo cuerpo o huele bien o no huele bien, olvida que hay una
+tercera posibilidad: que no huela en absoluto (que no desprenda olor), con lo cual pue-
+den ser falsas las dos proposiciones opuestas. Si digo que todo cuerpo es de olor agrada-
+ble o de olor desagradable (vel suaveolens vel non suaveolens), entonces ambos juicios
+se oponen contradictoriamente y sólo el primero es falso. Pero, en este caso, su opuesto
+contradictorio («Algunos cuerpos no son de olor agradable») comprende también en sí
+los cuerpos que no huelen. En la contraposición anterior (per disparata), la condición
+contingente (el olor) del concepto de cuerpo1 seguía existiendo en el juicio opuesto y,
+consiguientemente, no era eliminada por éste, que, por ello mismo, no se oponía contra-
+dictoriamente al otro juicio.
+En consecuencia, si digo que el mundo, desde un punto de vista espacial, es, o
+bien infinito, o bien no infinito (non est infinitus) y la primera proposición es falsa,
+entonces su opuesto contradictorio (es decir, que el mundo no es infinito) tiene que ser
+verdadero. De esta forma, me limito a negar un mundo infinito sin poner otro, es decir,
+el mundo finito. Si dijera, en cambio: el mundo es o bien infinito o bien finito (no-
+infinito), entonces podrían ser falsas ambas proposiciones. En efecto, al decir esto,
+considero el mundo como determinado en sí mismo desde el punto de vista de su magni-
+tud, ya que en la proposición opuesta no sólo elimino la infinitud del mundo, y con ella
+tal vez su existencia entera separada, sino que añado una determinación al mundo consi-
+1 Leyendo, con Hartenstein, des Körpers, en vez de der körper (N. del T.)

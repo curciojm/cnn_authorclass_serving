@@ -1,0 +1,42 @@
+ANTICIPACIONES DE LA INTUICIÓN 143
+aprehensión mediante una síntesis sucesiva (desde una parte a otra parte). Consiguien-
+temente, todos los fenómenos son ya intuidos como agregados (conjuntos1 de partes
+previamente dadas). Ello no ocurre con toda clase de magnitudes, sino sólo con aquellas
+que, en cuanto tales magnitudes, aprehendemos y representamos extensivamente.
+En esta síntesis sucesiva de la imaginación productiva se basan, para producir
+las figuras, las matemáticas de la extensión (geometría) con sus axiomas. Son éstos los
+que expresan las condiciones de la intuición sensible a priori bajo las cuales, y sólo bajo
+las cuales, puede surgir el esquema de un concepto puro de los fenómenos externos; por
+ejemplo: «Entre dos puntos no puede haber más que una línea recta»; «Dos líneas rectas
+no cierran un espacio», etc. Estos son los axiomas que sólo se refieren propiamente a
+magnitudes (quanta) en cuanto tales.
+Por lo que toca a la magnitud (quantitas), esto es, a la respuesta a la pregunta
+«¿Qué tamaño tiene esto?», no hay axiomas propiamente dichos, si bien algunas de estas
+pro- posiciones son sintéticas e inmediatamente ciertas (indemostrabilia). En efecto, las
+proposiciones: «Si sumamos cantidades iguales a cantidades iguales, obtenemos canti-
+dades iguales», «Si restamos cantidades iguales de cantidades iguales, obtenemos canti-
+dades iguales» son analíticas, ya que soy inmediatamente consciente de la identidad que
+existe entre la producción de una y otra magnitudes. Pero los axiomas tienen que ser
+proposiciones sintéticas a priori. Las proposiciones evidentes de la relación numérica
+son, en cambio, sintéticas, pero no universales como las de la geometría, y por ello
+precisamente no podemos llamarlas tampoco axiomas, sino fórmulas numéricas. 7 + 5 =
+12 no es una proposición analítica. En efecto, ni en la representación de 7, ni en la de 5,
+ni en la correspondiente a la unión de ambos, pienso el número 12. (El que tenga que
+pensarlo al sumar los dos no es lo que ahora interesa. En la proposición analítica la
+cuestión está en si realmente pienso el predicado al representarme el sujeto.) Pero, a
+pesar de ser sintética, la proposición es simplemente singular. En la medida en que se
+atiende sólo a la síntesis de lo homogéneo (de las unidades), tal síntesis solamente puede
+desarrollarse de una manera única, si bien después el uso de estos números es universal.
+Si afirmo que con tres líneas, de las cuales dos juntas son mayores que la tercera, se
+puede trazar un triángulo, tengo la simple función de la imaginación productiva, la cual
+puede trazar las líneas mayores o menores, al igual que puede hacerlas cruzar según
+todos los ángulos que quiera. El número 7, en cambio, sólo es posible de una manera, y
+lo mismo ocurre con el 12, que resulta de la síntesis del 7 con el 5.
+Semejantes proposiciones no debemos, pues, llamarlas axiomas (si lo hiciéra-
+mos, éstos serían infinitos), sino fórmulas numéricas.
+Este principio trascendental de las matemáticas de los fenómenos amplía nota-
+blemente nuestro conocimiento a priori. En efecto, sólo él permite aplicar la matemática
+pura, con toda su precisión, a los objetos de la experiencia, lo cual no resultaría claro por
+sí mismo si prescindiéramos de él. Es más, ello ha provocado numerosas contradiccio-
+nes. Los fenómenos no son cosas en sí mismas. La intuición empírica sólo es posible
+1 Leyendo, con Vorländer, Mengen, en lugar de Menge (N. del T.)

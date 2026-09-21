@@ -1,0 +1,9 @@
+{
+    "max_seq_length": 619,
+    "label_map": {
+        "0": "Freud",
+        "1": "Kant"
+    },
+    "padding": "post",
+    "truncating": "post"
+}

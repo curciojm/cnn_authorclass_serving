@@ -1,0 +1,36 @@
+46 PROLEGOMENOS [284-285]
+meros fenómenos; pues entonces la forma del fenómeno, esto
+es, la intuición pura, puede ciertamente ser representada a
+partir de nosotros mismos, esto es, a priori.
+§ 12
+A fin de añadir algo para aclaración y confirmación,
+sólo necesitamos considerar el procedimiento habitual e ine-
+vitablemente necesario de los geómetras. Todas las pruebas
+de la igualdad completa de dos figuras dadas (cuando una de
+ellas puede, en todas sus partes, ser colocada en el lugar
+de la otra) vienen a reducirse, en último término, a que se
+cubren mutuamente; lo cual, manifiestamente, no es otra
+cosa que una proposición sintética basada en la intuición
+inmediata; y esta intuición debe ser pura, y dada a priori,
+pues de otro modo aquella proposición no podría ser tenida
+por apodícticamente cierta, sino que poseería sólo certeza
+empírica. Se diría solamente: así se observa siempre, y la
+proposición vale sólo hasta donde se ha extendido nues-
+tra percepción. Que el espacio total (que no es, él mismo,
+límite de ningún otro espacio) tiene tres dimensiones, y que
+el espacio en general no puede tener más, es algo que se basa
+en la proposición que dice que en un punto no pueden cor-
+tarse en ángulo recto más de tres líneas; pero esta proposi-
+ción no se puede demostrar a partir de conceptos, sino que
+se basa inmediatamente en la intuición, y en una intuición
+pura a priori, porque es una proposición apodícticamente
+cierta; el que se pueda exigir que una línea sea prolongada
+hasta el infinito (in indefinitum), o que una serie de cam-
+bios (p. ej., de espacios recorridos mediante el movimiento)
+se continúe hasta el infinito, presupone una representación
+del espacio y del tiempo que, en la medida en que, en sí, no
+está limitada por nada, sólo puede ser propia de la intuición;
+pues nunca se podría deducirla de conceptos. Por tanto, en
+el fundamento de la matemática se hallan realmente intui-
+ciones puras a priori, las cuales hacen posibles sus proposi-
+ciones sintéticas y de validez apodíctica; y por eso nuestra

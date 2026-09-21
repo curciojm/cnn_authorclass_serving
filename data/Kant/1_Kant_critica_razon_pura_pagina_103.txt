@@ -1,0 +1,39 @@
+LÓGICA TRASCENDENTAL 65
+Haré ahora una observación que debe tenerse presente y cuya influencia se ex-
+tiende a todas las consideraciones que siguen: no todo conocimiento a priori debe lla-
+marse trascendental (lo que equivale a la posibilidad del conocimiento o al uso de éste, a
+priori), sino sólo aquél mediante el cual conocemos que determinadas representaciones
+(intuiciones o conceptos) son posibles o son empleadas puramente a priori y cómo lo
+son. Por ello, ni el espacio ni ninguna determinación geométrica a priori del mismo
+constituye una representación trascendental. Sólo puede llamarse representación tras-
+cendental el conocimiento de que tales representaciones no poseen origen empírico, por
+una parte, y, por otra, la posibilidad de que, no obstante, se refieran1 a priori a objetos
+de la experiencia. De la misma forma sería también trascendental el uso del espacio
+aplicado a objetos en general. Pero si se aplica sólo a los objetos de los sentidos, tal uso
+se llama empírico. La diferencia entre lo empírico y lo trascendental sólo corresponde,
+pues, a la crítica del conocimiento y no afecta a la relación entre éste y su objeto.
+Con la esperanza, pues, de que haya tal vez conceptos que se refieran a priori a
+objetos, no en cuanto intuiciones puras o sensibles, sino simplemente en cuanto actos del
+entendimiento puro —actos que son, por tanto, conceptos, pero de origen no empírico ni
+estético—, nos hacemos de antemano la idea de una ciencia del conocimiento puro
+intelectual2 y racional, un conocimiento a través del cual pensamos los objetos plena-
+mente a priori. Semejante ciencia, que determinaría el origen, la amplitud y la validez
+objetiva de esos conocimientos, tendría que llamarse lógica trascendental, ya que sólo
+se ocupa de las leyes del entendimiento y de la razón, si bien únicamente en la medida
+en que tales leyes se refieren3 a objetos a priori, a diferencia de lo que hace la lógica
+general, que se refiere indistintamente a conocimientos racionales, tanto empíricos como
+puros.
+III División de la lógica general en analítica y dialéctica
+La antigua y conocida pregunta, con la que se creía poner en apuros a los lógicos
+y con la que se intentaba llevarlos a una situación tal, que, o bien tuvieran que acogerse
+a un deplorable sofisma, o bien tuvieran que reconocer su ignorancia y, consiguiente-
+mente, la vacuidad de todo su arte, es ésta: ¿qué es la verdad? Se concede y se presupo-
+ne la definición nominal de verdad, a saber, la conformidad del conocimiento con su
+objeto. Pero se pretende saber cuál es el criterio general y seguro de la verdad de todo
+conocimiento.
+Saber qué es lo que hay que preguntar razonablemente constituye ya una notable
+y necesaria prueba de sagacidad y de penetración. En efecto, cuando la pregunta es en sí
+misma absurda y requiere contestaciones innecesarias, supone a veces el inconveniente,
+1 Leyendo, con Erdmann, beziehen können, en lugar de beziehen könne (N. del T.)
+2 Leyendo, de acuerdo con Erdmann, Verstandes—, en lugar de Verstandes (N. del T.)
+3 Entendiendo, con Erdmann, werden, en lugar de wird (N. del T.)

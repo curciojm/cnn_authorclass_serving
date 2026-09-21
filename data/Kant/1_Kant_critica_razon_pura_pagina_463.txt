@@ -1,0 +1,44 @@
+DISCIPLINA DE LA RAZÓN PURA 425
+adrede y que no me ha sido dado ni por la naturaleza del entendimiento ni por la expe-
+riencia. Lo que no puedo decir es que haya definido así un verdadero objeto, ya que si el
+concepto se basa en condiciones empíricas, ni el objeto, por ejemplo, un reloj marino, ni
+su posibilidad se dan ya a través de este concepto arbitrario; partiendo de él, ni siquiera
+sé si posee un objeto, y sería más correcto llamar a mi explicación declaración de mi
+proyecto, que definición de un objeto. No quedan, pues, otros conceptos susceptibles de
+definición que los que contienen una síntesis arbitraria que puede construirse a priori, y,
+consiguientemente, sólo las matemáticas contienen definiciones. En efecto, esta ciencia
+representa a priori, en la intuición, el objeto que piensa, y es seguro que éste no puede
+contener ni más ni menos que el concepto, ya que el último ha sido ofrecido por la defi-
+nición de modo originario, es decir, sin derivar esta definición de otra cosa. La lengua
+alemana no posee para expresar los términos «exposición», «explicación», «declara-
+ción», y «definición» más que la palabra Erklärung. Tenemos, pues, que suavizar el
+rigor que antes nos hizo negar a las explicaciones filosóficas el honroso título de defini-
+ciones. Nos limitaremos a observar que las definiciones filosóficas no son más que
+exposiciones de conceptos dados, mientras que las definiciones matemáticas son cons-
+trucciones de conceptos producidos originariamente; las primeras sólo se originan analí-
+ticamente, por descomposición (sobre cuya completud carecemos de certeza apodíctica),
+mientras que las segundas surgen sintéticamente; éstas producen, pues, el concepto,
+mientras que aquéllas se limitan a explicarlo. De ello se sigue:
+a) En la filosofía no hay que imitar las matemáticas, poniendo antes las defini-
+ciones, como no sea a título de puro ensayo. En efecto, dado que las definiciones son
+desomposicio-nes de conceptos dados, estos conceptos, aunque confusos todavía, irán
+delante, de igual modo que la exposición incompleta precederá a la completa, de suerte
+que de algunas características extraídas de una descomposición todavía incompleta,
+podremos ya deducir algo antes de llegar a la exposición completa, esto es, a la defini-
+ción. En una palabra, en filosofía la definición, en cuanto clara delimitación, tiene que
+concluir la obra, más bien que iniciarlak. En las matemáticas no tenemos, en cambio,
+ningún concepto antes de la definición, ya que es ella el medio a través del cual se da el
+concepto. En consecuencia, las matemáticas tienen que comenzar —y pueden hacerlo
+siempre— por la definición.
+b) Las definiciones matemáticas nunca pueden ser erróneas, ya que, teniendo en
+cuenta que el concepto no se da sino a través de la definición, tal concepto no incluye
+k La filosofía está llena de definiciones defectuosas, especialmente de las que, si bien con-
+tienen, de hecho, elementos de una definición, no los incluyen todos. Si no pudiese utilizarse en
+absoluto un concepto antes de haberlo definido, mal se presentarían las cosas para todo filosofar.
+Ahora bien, desde el momento en que pueden utilizarse bien y con seguridad los elementos (de la
+descomposición) hasta donde alcancen, también pueden emplearse con gran provecho las definicio-
+nes defectuosas, es decir, las proposicio nes que no constituyen aún definiciones propiamente
+dichas, pero que son, por otro lado, verdaderas y, por consiguiente, aproximaciones a una defini-
+ción. En las matemáticas, la definición pertenece ad esse; en la filosofía, ad melius esse. Lograr una
+definición es algo hermoso, pero suele ser difícil. Los juristas buscan todavía la del concepto de
+derecho (Nota de Kant).

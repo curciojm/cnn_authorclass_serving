@@ -1,0 +1,45 @@
+426 KANT/CRÍTICA DE LA RAZÓN PURA
+más que aquello que la definición pretende que se piense por medio de él. Pero, si no
+puede haber nada incorrecto desde el punto de vista de su contenido, sí puede haber,
+aunque raras veces, defectos de forma (de revestimiento), es decir, defectos relativos a la
+precisión. Así, la común definición de la circunferencia, según la cual esta es una linea
+curva cuyos puntos equidistan de uno (central), contiene la falta de introducir innecesa-
+riamente la determinación «curva». En efecto, tiene que haber un teorema especial,
+derivado de la definición y fácilmente demostrable, según el cual toda línea cuyos pun-
+tos equidisten de uno sólo sea curva (no siendo recta ninguna de sus partes). Las defini-
+ciones analíticas pueden, en cambio, ser erróneas de formas diversas, bien por introducir
+características no realmente contenidas en el concepto, bien por no ser exhaustivas —
+propiedad esencial de una definición— debido a la imposibilidad de estar completamen-
+te seguros de que el análisis del concepto sea completo. Por ello no puede imitarse en la
+filosofía el método de las matemáticas a la hora de formular definiciones.
+2. Axiomas. Son principios sintéticos a priori, en cuanto que son inmediatamen-
+te ciertos. Ahora bien, un concepto no puede combinarse con otro sintéticamente y, a la
+vez, de modo inmediato, ya que para salir de un concepto nos hace falta un tercer cono-
+cimiento que sirva de medio. Dado que la filosofía no es más que un conocimiento de
+tazón por conceptos, no se encontrará en ella ningún principio que merezca el nombre de
+axioma. Las matemáticas son, en cambio, capaces de axiomas, debido a que pueden,
+mediante la construcción de conceptos en la intuición del objeto, combinar los predica-
+dos de éste a priori y de forma inmediata; por ejemplo, que tres puntos se hallan siempre
+en un plano. Pero una proposición sintética formada por meros conceptos, por ejemplo,
+el prin- cipio: «Todo cuanto sucede tiene su causa», nunca puede ser inmediatamente
+cierta, ya que tengo que buscar un tercer elemento, a saber, la condición de la determi-
+nación temporal en una experiencia; partiendo sólo de los conceptos, no podría conocer
+directa e inmediatamente semejante principio. Los principios dircursivos son, pues, algo
+completamente distinto de los intuitivos, es decir, de los axiomas. Los primeros requie-
+ren siempre una ulterior deducción; los segundos pueden prescindir totalmente de ella y
+por eso son evidentes, cualidad que jamás pueden arrogarse los principios filosóficos,
+por muy ciertos que sean. De ahí que una proposición sintética de la razón pura trascen-
+dental se halle a infinita distancia (contra lo que se suele afirmar con obstinación) de una
+evidencia como la de la proposición «Dos y dos son cuatro». En la analítica, con ocasión
+de la tabla de los principios del entendimiento puro, he mencionado también ciertos
+axiomas de la intuición; pero el principio allí introducido no era por sí mismo un axio-
+ma, sino que servía simplemente para indicar el principio de la posibilidad de los axio-
+mas en general; por sí mismo no era otra cosa que un principio formado por conceptos.
+En efecto, la misma posibilidad de las matemáticas tiene que ser mostrada en la filosofía
+trascendental. La filosofía no posee, pues, axiomas y nunca puede imponer sus princi-
+pios a priori sin más, sino que tiene que prestarse a justificar con una sólida deducción
+su competencia respecto de ellos.
+3. Demostraciones. Una prueba apodíctica sólo puede llamarse demostración en
+la medida en que sea intuitiva. La experiencia nos enseña lo que es, pero no que no
+pueda ser de otro modo. Los argumentos empíricos son, pues, incapaces de suministrar-
+nos pruebas apodícticas. Pero de los conceptos a priori (en el conocimiento discursivo)

@@ -1,0 +1,39 @@
+[268-269] ADVERTENCIA PRELIMINAR 27
+Al principio bien podría pensarse que la proposición
+7 + 5= 12 es una proposición meramente analítica, que se
+sigue, según el principio de contradicción, del concepto de
+una suma de siete y cinco. Pero cuando se la considera más
+de cerca, se encuentra que el concepto de la suma de 7 y 5
+no contiene más que la unión de ambos números en uno
+solo, con lo cual no se piensa de ningún modo cuál sea este
+número único que los abarca a ambos. El concepto de doce
+no está de ningún modo ya pensado al pensar yo solamente
+aquella unión de siete y cinco, y por más que descomponga
+mi concepto de una tal suma posible, nunca encontraré en
+él el doce. Hay que salir de estos conceptos ayudándose con
+la intuición que corresponde a uno de los dos, por ejemplo
+los cinco dedos, o (como Segner en su aritmética) cinco pun-
+tos, y así ir añadiendo poco a poco las unidades del cinco
+dado en la intuición, al concepto del siete. Uno amplía por
+tanto verdaderamente su concepto mediante esta proposición
+7+5=12, y agrega al primer concepto uno nuevo que no
+estaba de ningún modo pensado en aquél, esto es, la propo-
+sición aritmética es siempre sintética, lo que se advierte más
+claramente, si se toman números algo mayores; pues enton-
+ces se manifiesta con claridad que por más vueltas que
+demos a nuestro concepto nunca podríamos encontrar la
+suma mediante el solo análisis de los conceptos, sin ayu-
+darnos con la intuición.
+Tampoco es analítico cualquier principio de la geome-
+tría pura. Que la línea recta es la más corta entre dos puntos
+es una proposición sintética. Pues mi concepto de recta no
+contiene nada de magnitud, sino sólo una cualidad. El con-
+cepto de lo más corto es, pues, enteramente añadido, y no
+se puede extraerlo del concepto de la línea recta mediante
+ningún análisis. Hay que ayudarse aquí con la intuición,
+sólo por cuyo intermedio es posible la síntesis.
+Algunos otros principios que los geómetras presuponen
+son, por cierto, realmente analíticos y se basan en el prin-
+cipio de contradicción; pero, como proposiciones idénticas,
+sirven sólo de vínculos del método y no como principios,
+p. ej. a = a, el todo es igual a sí mismo, o (a + b) > a, es

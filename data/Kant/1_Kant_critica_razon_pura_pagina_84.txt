@@ -1,0 +1,34 @@
+46 KANT/CRÍTICA DE LA RAZÓN PURA
+[§ 31
+Exposición trascendental del concepto de espacio
+Entiendo por exposición trascendental la explicación de un concepto como prin-
+cipio a partir del cual puede entenderse la posibilidad de otros conocimientos sintéticos
+a priori. Para tal objetivo hace falta:
+1) que esos conocimientos surjan realmente del concepto dado;
+2) que esos conocimientos sólo sean posibles suponiendo una forma
+dada de explicación de dicho concepto.
+La geometría es una ciencia que establece las propiedades del espacio sintética-
+mente y, no obstante, a priori. ¿Cuál ha de ser, pues, la representación del espació para
+que sea posible semejante conocimiento del mismo? Tiene que ser originariamente una
+intuición, ya que de un simple concepto no pueden extraerse proposiciones que vayan
+más allá del concepto, cosa que, sin embargo, ocurre en la geometría (ver Introducción
+V). Esa intuición tiene que hallarse en nosotros a priori, es decir, previamente a toda
+percepción de objetos, y, consiguientemente, ha de ser una intuición pura, no empírica.
+En efecto, las proposiciones de la geometría son todas apodícticas, es decir, van acom-
+pañadas de la conciencia de su necesidad, como por ejemplo, la que afirma que el espa-
+cio sólo tiene tres dimensiones. Tales proposiciones no pueden ser juicios empíricos o
+de experiencia, como tampoco ser deducidas de ellos (ver Introducción II)2.
+¿Cómo puede, pues, hallarse en nuestro psiquismo una intuición externa que
+precede a los mismos objetos y en la que podemos determinar a priori el concepto de
+esos objetos ? Evidentemente, sólo en la medida en que tal intuición se asiente en el
+sujeto como propiedad formal de éste de ser afectado por objetos y de recibir, por este
+medio, una representación inmediata de los mismos, es decir, una intuición. Por consi-
+guiente, sólo en cuanto forma del sentido externo en general.
+En consecuencia, sólo nuestra explicación hace comprensible la posibilidad de
+la geometría como conocimiento sintético a priori. El no suministrar tal comprensión
+constituirá el rasgo más seguro para distinguir de la nuestra cualquier otra explicación,
+aunque a primera vista se parezca algo a ella.]
+Consecuencias de los conceptos anteriores
+1 En A: falta el § 3
+2 Se observará que Kant reformula aquí lo dicho en A, pág. 24 (pág. 68 de la presente edi-
+ción, nota 2) (N. del T.)

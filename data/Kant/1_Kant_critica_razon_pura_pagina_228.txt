@@ -1,0 +1,45 @@
+190 KANT/CRÍTICA DE LA RAZÓN PURA
+de serle presentado en la intuición el objeto correspondiente, ya que, de faltar este requi-
+sito, el concepto quedaría privado de sentido (según se dice), esto es, privado de signifi-
+cación. Las matemáticas cumplen este requisito construyendo la figura, la cual constitu-
+ye para los sentidos un fenómeno presente (a pesar de ser producido a priori). En esta
+misma ciencia busca el concepto de magnitud su soporte y su sentido en el número,
+mientras que éste lo hace en los dedos, en los corales del ábaco o en las rayas y los
+puntos que se presentan a la vista. El concepto es producido siempre a priori, igual que
+los principios sintéticos o fórmulas derivadas de esos conceptos. Pero su uso, al igual
+que su referencia a supuestos objetos, no puede buscarse, en definitiva, sino en la expe-
+riencia. La posibilidad de ésta contiene ya a priori esos conceptos (por lo que a su forma
+se refiere).
+Que lo mismo ocurre con todas las categorías y con los principios derivados de
+ellas se deduce con claridad del hecho de que no podemos dar una definición [real] de
+ninguna de ellas [es decir, hacer comprensible la posibilidad de un objeto], sin descender
+inmediatamente a las condiciones de la sensibilidad y, consiguientemente, a la forma de
+los fenómenos, a los cuales, como únicos objetos de las categorías, tienen éstas que
+limitarse. Si prescindimos de esas condiciones, desaparece toda significación, es decir,
+toda referencia al objeto, con lo cual no hay ningún ejemplo que nos permita entender
+qué es lo que se quiere decir realmente con semejantes conceptosA.
+No se puede explicar el concepto de magnitud en general sino diciendo acaso
+que es la determinación de una cosa, una determinación a través de la cual puede pen-
+A [Tras punto y seguido viene en A el siguiente texto, omitido en B:] Anteriormente, en la
+presentación de las tablas de las categorías, nos abstuvimos de definir cada una de ellas diciendo
+que nuestro objetivo, encaminado exclusivamente al uso empírico de las mismas, no lo requería y
+que no debíamos entrar en empresas innecesarias cargando así con responsabilidades de las que
+podíamos eximirnos. No era una evasiva, sino una importante regla de prudencia que aconseja no
+lanzarse inmediatamente a definir ni intentar conseguir —o fingir que se consigue— la completud o
+la precisión en la delimitación del concepto cuando puede bastarnos una u otra característica suya,
+sin necesidad de efectuar un exhaustivo recuento de todas las que lo constituyen. Queda claro ahora
+que el fundamento de esta prudencia es incluso más hondo. En efecto, no podíamos definirlas ni
+aun en el caso de que hubiéramos querido hacerlo [Me refiero a la definición real. Esta no se limita
+a sustituir el nombre de una cosa por otras palabras más comprensibles, sino que contiene en sí un
+distintivo claro por el que puede conocerse siempre con seguridad el objeto (definitum) y que hace
+que pueda aplicarse el concepto explicado. La explicación real sería, pues, aquella que no sólo
+explica un concepto, sino que explica, a la vez, la realidad objetiva del mismo. Las explicaciones
+matemáticas, donde se presenta en la intuición el objeto correspondiente al concepto, son de esta
+última clase. (Nota de Kant)]. Al contrario, si eliminamos de las categorías todas las condiciones de
+la sensibilidad que hacen de ellas conceptos de posible uso empírico y tomamos [Leyendo, con
+Hartenstein, nimmt, en vez de nehmen (N. del T.)] esas mismas categorías por conceptos de cosas
+en general (y, consiguientemente, por conceptos de uso trascendental), entonces no podemos hacer
+con ellas sino considerar la función lógica en los juicios como condición de posibilidad de las cosas
+mismas, pero sin poder señalar en absoluto dónde pueden [Leyendo, con Hartenstein, können, en
+lugar de könne (N. del T.)] tener aplicación y objeto ni, por tanto, cómo pueden tener en el enten-
+dimiento puro, prescindiendo de la sensibilidad, significación y validez objetiva.

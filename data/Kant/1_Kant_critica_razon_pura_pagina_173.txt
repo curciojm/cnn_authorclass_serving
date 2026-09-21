@@ -1,0 +1,35 @@
+PRINCIPIOS DEL ENTENDIMIENTO PURO 135
+de semejantes conocimientos evidentes a priori, no para demostrar que son correctos y
+apodícticamente ciertos, cosa que no les hace ninguna falta.
+Tendremos que hablar también del principio de los juicios analíticos contrastán-
+dolo con el de los1 sintéticos, que son los que nos ocupan propiamente, ya que es este
+contraste el que despeja todo malentendido relativo a la teoría de éstos últimos y los
+presenta con claridad y según su peculiar naturaleza.
+Sección primera
+EL PRINCIPIO SUPREMO DE TODOS LOS JUICIOS ANALÍTICOS
+La ausencia de contradicción interna constituye la condición universal —aunque
+sea únicamente negativa— de todos nuestros juicios, sea cual sea el contenido del cono-
+cimiento y el modo según el cual se refiera al objeto. De no cumplir tal condición, esos
+juicios no significan nada en sí mismos (incluso prescindiendo del objeto). Pero aun en
+el caso de hallarse exento de contradicción, el juicio puede ligar conceptos de modo
+distinto al requerido por el objeto, o también de modo que no se dé motivo alguno, ni a
+priori, ni a posteriori, que justifique semejante juicio. Así, pues, un juicio puede ser
+falso, o carecer de fundamento, a pesar de estar libre de toda contradicción interna.
+La proposición: «A ninguna cosa le es adecuado un predicado que la contradiga»
+recibe el nombre de principio de contradicción y constituye un criterio universal, aunque
+meramente negativo, de toda verdad. Pero sólo pertenece, por ello mismo, a la lógica, ya
+que vale para los conocimientos considerados simplemente como conocimientos en
+general, con independencia de su contenido. El principio afirma que la contradicción
+anula y suprime tales conocimientos.
+No obstante, se puede también emplear el principio de forma positiva, es decir,
+no sólo para rechazar la falsedad y el error (en cuanto basados en la contradicción), sino
+también para conocer la verdad. En efecto, si el juicio es analítico, sea negativo o afir-
+mativo, siempre debe sernos posible conocer suficientemente su verdad atendiendo al
+principio de contradicción. Siempre es correcto negar lo contrario de aquello que se
+halla incluido como concepto en el conocimiento del objeto y que es pensado en él.
+Tenemos que afirmar necesariamente, en cambio, el concepto mismo del objeto, ya que
+lo contrario de tal concepto sería contrario al objeto.
+Debemos, pues, considerar el principio de contradicción como principio univer-
+sal y plenamente suficiente de todo conocimiento analítico. Pero ni su autoridad ni su
+aplicabilidad van más allá de un criterio suficiente de verdad. En efecto, el hecho de que
+1 Leyendo, con Mellin, mit dem der, en vez de mit der (N. del T.)

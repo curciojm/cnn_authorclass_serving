@@ -1,0 +1,28 @@
+72 KANT/CRÍTICA DE LA RAZÓN PURA
+conocido mediante dicho concepto. Consiguientemente, sólo es concepto en la medida
+en que comprende en sí otras representaciones por medio de las cuales puede hacer
+referencia a objetos. Es, pues, el predicado de un posible juicio, «Todo metal es cuerpo»,
+pongamos por caso. Existe, por tanto, la posibilidad de hallar todas las funciones del
+entendimiento si podemos representar exhaustivamente las funciones de unidad en los
+juicios. La sección siguiente pondrá de manifiesto que ello es perfectamente realizable.
+Sección segunda
+[ §9] Función lógica del entendimiento en los juicios
+Si hacemos completa abstracción del contenido de un juicio y atendemos tan
+sólo a su simple forma intelectual, descubrimos que la función del pensamiento, dentro
+del juicio, puede reducirse a cuatro títulos, cada uno de los cuales incluye tres momen-
+tos. Pueden representarse de forma adecuada en la tabla siguiente:
+1
+Cantidad de los juicios
+Universales
+Particulares
+Singulares
+2 3
+Cualidad Relación
+Afirmativos Categóricos
+Negativos Hipotéticos
+Infinitos Disyuntivos
+4
+Modalidad
+Problemáticos
+Asertóricos
+Apodícticos

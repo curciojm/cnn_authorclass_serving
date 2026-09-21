@@ -1,0 +1,43 @@
+184 KANT/CRÍTICA DE LA RAZÓN PURA
+con una simple observación crítica, dejando el asunto en la oscuridad hasta que llegue-
+mos a su posterior desarrollo.
+Como quiero acabar en seguida este apartado cuatro, y con él el sistema de todos
+los principios del entendimiento puro, debo señalar todavía por qué he dado a los princi-
+pios de la modalidad el nombre de postulados. No tomo esta denominación en el sentido
+que le han atribuido algunos filósofos recientes, sentido opuesto al de los autores a
+quienes pertenece propiamente, que son los matemáticos. Según el sentido de esos filó-
+sofos, postular equivaldría a tomar una proposición como inmediatamente cierta, pres-
+cindiendo de su justificación o demostración. En efecto, si, por muy evidentes que sean
+las proposiciones sintéticas, las admitimos incondicionalmente, sin deducción, por la
+autoridad de su propia fórmula, entonces se viene abajo toda crítica del entendimiento.
+Además, si tenemos en cuenta que no faltan las pretensiones más audaces a las que la
+misma creencia común (que no es ninguna garantía de verdad) presta oídos, quedará
+expuesto nuestro entendimiento a todas las fantasías, sin que puedan éstas negar su
+aprobación a aquellas fórmulas que, si bien carecen de justificación, reclaman el ser
+admitidas corno verdaderos axiomas y lo hacen en el mismo tono de suficiencia que
+éstos. Consiguientemente, en una proposición donde se añade sintéticamente una deter-
+minación a priori al concepto de una cosa, debe acompañarse ineludiblemente, si no una
+demostración, sí al menos una deducción que legitime esa proposición.
+Los principios de la modalidad no son objetivamente sintéticos, ya que, si bien
+los predicados de posibilidad, realidad y necesidad añaden algo a la representación del
+objeto, no amplían en lo más mínimo el concepto del cual se predican. Y aunque siem-
+pre sean, en definitiva, sintéticos, sólo lo son subjetivamente. Es decir, añaden al con-
+cepto de una cosa (de algo real), del que no afirman nada más, la facultad cognoscitiva
+de la cual surge y en la cual se asienta ese concepto. De modo que si sólo en el entendi-
+miento está ligado a las condiciones formales de la experiencia, su objeto es calificado
+de posible; si el concepto está en conexión con la percepción (sensación en cuanto mate-
+ria de los sentidos) y determinada por ella a través del entendimiento, su objeto es real;
+si está determinado por la conexión de las percepciones según conceptos, el objeto es
+llamado necesario. Así, pues, lo único que los principios de la modalidad expresan
+respecto de un concepto es el acto de la facultad cognoscitiva a través del cual se origi-
+na. Ahora bien, lo que en matemáticas se llama postulado es una proposición práctica
+que no contiene más que la síntesis a través de la cual nos damos un objeto y produci-
+mos su concepto. Por ejemplo, describir un círculo con una línea dada, partiendo de un
+punto dado, en un plano. Semejante proposición no puede demostrarse, ya que el proce-
+dimiento que exige es precisamente el medio a través del cual producimos el concepto
+de esa figura. Podemos postular, pues, con el mismo derecho, los principios de la moda-
+lidad, ya que no amplíank nuestro1 concepto de las cosas, sino que simplemente indican
+el modo según el cual se enlaza este concepto con la facultad cognoscitiva.
+k Naturalmente, con la realidad de una cosa pongo algo más que la posibilidad, pero no en
+la cosa, ya que ésta no puede poseer en la realidad más que lo que poseía en su posibilidad global.
+Pero, mientras la posibilidad era simplemente un poner la cosa en relación con el entendimiento

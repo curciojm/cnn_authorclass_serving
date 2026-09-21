@@ -1,0 +1,42 @@
+DISCIPLINA DE LA RAZÓN PURA 427
+jamás puede surgir una certeza intuitiva, es decir, una evidencia, por muy apodícti-
+camente cierto que sea el juicio. En consecuencia, sólo las matemáticas poseen demos-
+traciones, debido a que su conocimiento no deriva de conceptos, sino de la construcción
+de los mismos, es decir, de la intuición que puede darse a priori en correspondencia con
+los conceptos. El mismo procedimiento del álgebra, con sus ecuaciones, a partir de las
+cuales, por reducción, produce la verdad juntamente con su prueba, aunque no es una
+construcción geométrica, es una construcción característica por la cual se presentan en la
+intuición los conceptos a través de signos, especialmente los que se refieren a relaciones
+de magnitud. Aun sin atender a su elemento heurístico, este método garantiza la ausen-
+cia de errores en todas las inferencias por el hecho de poner a la vista cada una de ellas.
+El conocimiento filosófico, por el contrario, se ve obligado a renunciar a esta ventaja,
+debido a que siempre tiene que considerar lo universal en abstracto (a través de concep-
+tos), mientras que las matemáticas pueden considerar lo universal en concreto (en la
+intuición singular) y, a la vez, mediante una representación pura a prwn, gracias a lo
+cual se hacen visibles todos los errores. Por ello preferiría dar el nombre de pruebas
+acroamáticas (discursivas) a las filosóficas, ya que sólo pueden llevarse a cabo mediante
+simples palabras (mediante el objeto que tenemos en el pensamiento), en vez de llamar-
+las demostraciones, que, como indica el mismo nombre, proceden por intuición del
+objeto.
+De todo lo dicho se sigue que no concuerda con la naturaleza de la filosofía, es-
+pecialmente en la esfera de la razón pura, el adoptar una postura dogmática y el cubrirse
+con los títulos e insignias de las matemáticas, a cuya orden no pertenece, aunque posea
+todas las razones para esperar una fraternal unión con ellas. Tales pretensiones son
+vanas y nunca pueden prosperar. Al contrario, la desviarán de su objetivo, el de descu-
+brir las ilusiones de una razón que desconoce sus propios límites y el de reducir, me-
+diante una suficiente clarificación de nuestros conceptos, la vanidad de la especulación
+al modesto, pero sólido, autoconocimiento. En sus ensayos trascendentales, la razón no
+podrá, pues, mirar hacia adelante con la misma seguridad que si el camino recorrido
+condujera directamente a la meta, como tampoco las premisas, en las que se ha basado le
+permitirán una confianza tal, que no tenga necesidad de mirar hacia atrás con frecuencia
+para comprobar si no aparecen errores en las inferencias efectuadas durante el recorrido,
+errores que se han pasado por alto en los principios y que obligan, o bien a determinar
+éstos últimos con mayor precisión, o bien a transformarlos completamente.
+Divido todas las proposiciones apodícticas (tanto las demostrables como las in-
+mediatamente ciertas) en dogmata y mathemata. Una proposición sintética directamente
+extraída de conceptos es un dogma, mientras que una del mismo tipo, pero formada por
+construcción de los conceptos, es un mathema.
+En realidad, los juicios analíticos no nos enseñan acerca del objeto más de lo que
+nuestro concepto del mismo contiene ya en sí, puesto que no amplían el conocimiento
+más allá del concepto del sujeto, sino que se limitan a explicitarlo. No sería, pues, ade-
+cuado dar a estos juicios el nombre de dogmas (palabra que podríamos traducir quizá

@@ -1,0 +1,42 @@
+232 KANT/CRÍTICA DE LA RAZÓN PURA
+de forma imperceptible, de canon del amplio y uniforme uso del entendimiento, el cual
+no conoce por este medio más objetos de los que conocería a través de sus propios con-
+ceptos, pero sí está mejor y más extensamente guiado en relación con este mismo cono-
+cimiento. Aparte de que tal vez posibiliten el paso de los conceptos de la naturaleza a los
+prácticos, suministrando así consistencia a las ideas morales y conectándolas con los
+conocimientos especulativos de la razón. Sobre todo esto hay que esperar posteriores
+aclaraciones.
+De acuerdo con nuestro plan, dejamos aquí a un lado las ideas prácticas y sólo
+consideramos la razón en su uso especulativo, y dentro de éste, restringiendo más todav-
+ía, en su uso trascendental. Tenemos que seguir aquí el mismo camino que antes adop-
+tamos para la deducción de las categorías, a saber, examinar la forma lógica del conoci-
+miento de la razón y comprobar si ésta no se convierte también así en una fuente de
+conceptos destinados a considerar los objetos en sí mismos como determinados sintéti-
+camente a priori con respecto a una u otra función de la razón.
+Considerada como facultad de cierta forma lógica del conocimiento, la razón es
+la capacidad de inferir, esto es, de juzgar mediatamente (subsumiendo la condición de
+un juicio posible bajo la condición de un juicio dado). El juicio dado es la regla univer-
+sal (premisa mayor, major). La subsunción de la condición de otro juicio posible bajo la
+condición de la regla es la premisa menor (minor). El juicio efectivo que enuncia la
+aserción de la regla en el caso subsumido es la conclusión (conclusio). La regla afirma,
+en efecto, algo universal bajo cierta condición. Entonces se verifica en un caso la condi-
+ción de la regla. Consiguientemente, lo que era universalmente válido bajo aquella
+condición, es considerado también válido en el caso presente (el cual lleva consigo esta
+condición). Es fácil de ver que la razón obtiene el conocimiento a través de actos del
+entendimiento que constituyen una serie de condiciones. Si sólo llego a la proposición
+«Todos los cuerpos son alterables» partiendo del conocimiento más lejano (en el cual no
+se presenta todavía el concepto de cuerpo, aunque sí la condición de este concepto),
+según el cual todo compuesto es alterable; si paso desde este conocimiento a otro más
+cercano, el cual se halla condicionado por el primero, como: «Los cuerpos son compues-
+tos»; si sólo desde éste paso a un tercero que enlaza el conocimiento más lejano (altera-
+ble) con el que tengo delante, concluyendo que los cuerpos son alterables, entonces he
+llegado a un conocimiento (conclusión) por medio de una serie de condiciones (premi-
+sas). Ahora bien, toda serie cuyo exponente (sea del juicio categórico, sea del juicio
+hipotético) está dado, puede prolongarse. Consiguientemente, el mismo acto de la razón
+nos conduce a la ratiocinatio polysyllogistica, la cual1 constituye una serie de inferen-
+cias que pueden proseguirse indefinidamente, bien sea por el lado de las condiciones
+(per prosyllogismos), bien por el de lo condicionado (per episyllogis-mos).
+Pero pronto se advierte algo respecto de la cadena o serie de los prosilogismos,
+esto es, de los conocimientos deducidos por el lado de los fundamentos o condiciones de
+un conocimiento dado; en otras palabras: se advierte que la serie ascendente de los
+1 Leyendo, con Erdmann, welche, en vez de welches (N. del T.)
