@@ -1,4 +1,7 @@
 Django==6.1.1
 requests==2.34.2
 tensorflow==2.20.0
-gunicorn
+numpy==2.2.6
+pandas==2.3.2
+scikit-learn==1.7.1
+gunicorn==23.0.0
