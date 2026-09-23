@@ -2,6 +2,8 @@
 
 A text classification project that uses a **Convolutional Neural Network (CNN)** to classify Spanish texts according to whether they were written by **Immanuel Kant** or **Sigmund Freud**.
 
+**Live Demo:** [Try the web application →](https://cnnauthorclassserving-production.up.railway.app/)
+
 The project covers the complete workflow from text preprocessing and model training to **SavedModel export, TensorFlow Serving, and a Django web application for inference**.
 
 ## Overview
